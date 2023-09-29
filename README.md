@@ -1,2 +1,2 @@
 # earthdata-gis
-NASA's enterprise Earthdata GIS
+NASA's enterprise Earthdata Geographic Information System (EGIS)
